@@ -1,0 +1,13 @@
+# Fabric binaries
+../bin/
+bin/
+
+# Generated crypto material
+organizations/
+system-genesis-block/
+channel-artifacts/
+
+# Logs & temp files
+*.log
+tmp/
+wallet/
