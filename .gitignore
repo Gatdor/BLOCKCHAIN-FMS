@@ -11,3 +11,6 @@ channel-artifacts/
 *.log
 tmp/
 wallet/
+# Ignore large chaincode archive
+
+chaincode-backup/bigdatacc/bigdatacc.tar.gz chaincode-backup/bigdatacc/bigdatacc.tar.gz
